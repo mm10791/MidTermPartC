@@ -62,7 +62,7 @@ public class UserProfile
     }
     
     
-    
+    //Added comments from Max
     
     
 }//end class
